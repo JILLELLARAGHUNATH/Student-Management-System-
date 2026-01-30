@@ -36,26 +36,6 @@ This project demonstrates backend development, database handling, and basic fron
    python backend/server.py
 
 
-🗂️ Project Structure
-
-Student-Management-System/
-│
-├── backend/
-│   ├── server.py        # HTTP server handling requests
-│   ├── db.py            # Database connection and table creation
-│   ├── crud.py          # CRUD operations
-│   └── main.py          # CRUD testing script
-│
-├── frontend/
-│   ├── index.html       # HTML template
-│   └── styles.css       # CSS styling
-│
-├── database/
-│   └── students.db      # SQLite database
-│
-├── README.md
-├── requirements.txt
-└── TODO.md
 
 
 📌 Author
